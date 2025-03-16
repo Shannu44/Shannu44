@@ -1,3 +1,7 @@
+
+<img src="Freelance BG.jpg" alt="GitHub Banner" width="100%" />
+
+
 # 👋 Hey, I'm Shannu!
 💻 Full-stack Developer | Tech Enthusiast | UI/UX Innovator<br><br>I love bringing ideas to life through clean, efficient, and futuristic web and app development. My projects focus on interactivity, responsiveness, and seamless user experiences.<br><br>🚀 What I Do:<br><br>-Develop cutting-edge web applications using JavaScript, React, and Node.js<br>-Build Flask-based backends with SQLite databases <br>-Craft dark-themed, tech-inspired UI/UX designs<br>-Experiment with AI-inspired neural animations & futuristic interfaces<br><br>🔥 Projects & Achievements:<br><br>-Chief Developer of Navonmesh 2024 website<br>-KwikChat - A voice-to-chat messaging app with custom themes & real-time chat<br>- Currently learning AWS to scale my projects!<br><br>📩 Let’s connect & build something awesome!
 
